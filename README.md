@@ -50,6 +50,8 @@ Story page for narrative) is a deliberate dashboard-design choice — too many d
 ## Screenshot
 ![image alt](https://github.com/bigruntown/Sales-overview-interactive-dashboard/blob/main/KPI%20DASHBOARD%20.png?raw=true)
 
+![image alt](https://github.com/bigruntown/Sales-overview-interactive-dashboard/blob/main/Story%20Telling.png?raw=true)
+
 ## How to view this project
 
 1. Download `Sales-overview-Interactive-Dashboard.pbix` from this repo.
