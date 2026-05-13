@@ -47,6 +47,8 @@ Story page for narrative) is a deliberate dashboard-design choice — too many d
 - Authored DAX measures for the three headline KPIs and reused them across multiple visuals so the numbers stay consistent if the source changes.
 - Designed a **second page for narrative** instead of cramming everything onto one canvas — recruiters and stakeholders notice this.
 
+## Screenshot
+![image alt](https://github.com/bigruntown/Sales-overview-interactive-dashboard/blob/main/KPI%20DASHBOARD%20.png?raw=true)
 
 ## How to view this project
 
