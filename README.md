@@ -47,12 +47,6 @@ Story page for narrative) is a deliberate dashboard-design choice — too many d
 - Authored DAX measures for the three headline KPIs and reused them across multiple visuals so the numbers stay consistent if the source changes.
 - Designed a **second page for narrative** instead of cramming everything onto one canvas — recruiters and stakeholders notice this.
 
-## Screenshots
-
-
-
-![KPI Dashboard page](screenshots/kpi-dashboard.png)
-![Storytelling page](screenshots/story-telling.png)
 
 ## How to view this project
 
